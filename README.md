@@ -57,7 +57,7 @@ Tested with Python 3.7 on Windows 10...
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars.githubusercontent.com/u/78690237?v=4" width="100px;" alt=""/><br /><sub><b>MSVFORYOU</b></sub></a><br /><a href="https://github.com/MSVFORYOU" title="Owner">👑</a></td>
+     <td align="center"><a href="https://github.com/MSVFORYOU"><img src="https://avatars.githubusercontent.com/u/78690237?v=4" width="100px;" alt=""/><br /><sub><b>MSVFORYOU</b></sub></a><br /><a href="https://github.com/MSVFORYOU" title="Owner">👑</a></td>
      
      
   </tr>
